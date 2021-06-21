@@ -1,0 +1,697 @@
+ 
+  @media (max-width:1199px){
+	  
+
+.slider-content h1 {
+    font-size: 40px;
+}
+
+.slider-content p {
+    font-size: 12px;
+    line-height: 25px;
+   
+}	
+
+.slider-content h5 {
+    font-size: 19px;
+    
+} 
+.slide-btn a {
+    padding: 8px 20px;
+   
+}
+.slide-btn a:last-child {
+    padding: 8px 32px;
+    
+}
+.about-area {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.about-area-content .big-title h2 {
+    margin-bottom: 5px;
+}
+ .about-area-content p {
+    font-size: 14px;
+}
+.Do-part p {
+    font-size: 14px;
+    padding-top:0;
+}
+.our-content-items {
+    padding-top: 70px;
+    padding-bottom:70px;
+}
+.tab-content> h3 {
+    font-size: 28px;
+}
+.tab-content p{
+	font-size:14px;
+}
+.team-area .big-title {
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+  }
+ 
+ @media (max-width:991px){
+.top-content {
+    display: block;
+    width: 100%;
+    text-align: center;
+} 
+.top-bar{
+   text-align:center;
+}
+.top-left ul,
+.top-right ul {
+   display:block;
+   
+}
+.top-content{
+	display:block;
+}
+.top-right ul li {
+    margin-left: 5px;
+    margin-right: 5px;
+    display: inline;
+}
+.slider-content h1 {
+    font-size: 25px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+.slider-content p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.about-area {
+    margin-top:0px;
+    
+}
+.slider-content {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+/* slide btn */
+.benar-content-area .slide-btn a{
+	font-size:16px;
+}
+
+ .extra-container{
+	 max-width:850px;
+ }
+.do-othor h4 {
+    padding-bottom: 5px;
+    margin: 0px;
+}
+p {
+    margin-bottom: 0;
+}
+.We-Do {
+    margin-bottom: 150px;
+}
+.Do-img img {
+    max-width: 165%;
+}
+.Do-part {
+    margin-top: 5px;
+	margin-bottom:0;
+}
+.Do-part a {
+    font-size: 25px;
+}
+.do-othor h4 {
+    padding-bottom: 5px;
+}
+.tab-images img {
+    height: 200px;
+}
+.tab-content> h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.tab-content p {
+    font-size: 12px;
+}
+.benar-content-area .slide-btn a {
+    font-size: 14px;
+    padding: 20px;
+}
+.team-content> h2 {
+    font-size: 22px;
+}
+.team-content> h6 {
+    font-size: 16px;
+}
+.team-content p {
+    margin-bottom: 53px;
+    font-size: 12px;
+}
+.team-area .col-md-3 {
+    padding: 5px;
+}
+.team-sosial ul li {
+    padding: 15px 5px;
+}
+
+.blog-items img {
+    height: 180px;
+}
+.blog-items h3 {
+    font-size: 18px;
+    margin-top: 16px;
+}
+.pos h3 {
+    margin: 0;
+    font-size: 15px;
+}
+.brand-items {
+    background: #fafafa;
+    padding-top: 69px;
+    padding-bottom: 50px;
+}
+.We-Do {
+    padding-bottom: 10px;
+}	
+}
+
+@media (max-width:768px){
+.We-Do {
+    padding-bottom: 30px;
+}	
+.slider-content p {
+    font-size: 12px;
+}
+ .slide-btn {
+    margin-top: 45px;
+}
+.big-title h2 {
+    margin-bottom:0px;
+    margin-top: -2px;
+}
+p {
+    margin-bottom: 0;
+    padding-top: 12px;
+}
+.do-othor h4 {
+    font-size: 15px;
+    margin: 0;
+}
+.Do-img img {
+    max-width: 124%;
+    margin-top: 65px;
+}
+.tab-content> h3 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.tab-content p {
+    font-size: 11px;
+}
+ul.our-nav-item li a {
+    font-size: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.benar-content-area {
+    padding-top: 113px;
+    padding-bottom: 80px;
+}
+.benar-content-area h2 {
+    font-size: 25px;
+}
+.benar-content-area .slide-btn a {
+   
+    font-size: 15px;
+    padding: 15px 14px;
+}
+.blog-items h3 {
+    font-size: 18px;
+    margin-top: 11px;
+}
+.blog-items p{
+}
+.blog-items img {
+    height:180px;
+}
+.pos h3 {
+    font-size: 14px;
+	margin-top:0;
+}
+.brand-items {
+    padding-top: 65px;
+    padding-bottom: 29px;
+}
+.widget-content p {
+    margin-top: 0px;
+    width: 100%;
+}
+.widget-contents a {
+    margin-top: 12px;
+}
+.input-area {
+    margin-top: 20px;
+}
+.to-top a {
+    font-size: 25px;
+    padding: 13px;
+    bottom: 67px;
+}
+.footer .widget-one {
+    width: 114%;
+}
+.team-content> h2 {
+    font-size: 48px;
+}
+.team-content> h6 {
+    font-size: 30px;
+}
+.team-content p {
+    margin-bottom: 53px;
+    font-size: 25px;
+}
+
+.team-sosial {
+    bottom: -95px;
+}
+.team-sosial ul li {
+    padding: 25px 17px;
+}
+.team-sosial ul li a {
+    font-size: 30px;
+}
+.work-nav ul li {
+    font-size: 12px;
+}
+.slider-content {
+    padding-top: 42px;
+    padding-left: 40px;
+    padding-right: 40px;
+}	
+.slider-content h5 {
+    font-size: 17px;
+}
+.slider-content h1 {
+    font-size: 18px;
+    padding-top: 7px;
+    margin-bottom: -10px;
+}
+
+.slider-content p {
+    font-size: 13px;
+}
+.slide-btn {
+    margin-top: 24px;
+    padding-bottom: 42px;
+}
+.slide-btn {
+    margin-top: 20px;
+    padding-bottom: 42px;
+}
+.slide-btn a {
+    padding: 5px 7px;
+}
+.slide-btn a:last-child {
+    padding: 5px 10px;
+}
+.our-bullet {display:none;
+   
+}
+}
+
+@media (max-width:500px){
+.slider-item img {
+    height: 200px;
+}
+.slider-content {
+    padding-top: 59px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.slider-content h5 {
+    font-size: 12px;
+}
+.slider-content h1 {
+    font-size: 20px;
+    padding-top: 7px;
+    margin-bottom: -10px;
+}
+.slider-content p {
+    font-size: 13px;
+}
+.slider-content p span{
+	display:none;
+}
+.slide-btn {
+    margin-top: 13px;
+}
+.slide-btn a {
+    padding: 5px 7px;
+}
+.slide-btn a {
+    padding: 5px 7px;
+}
+.slider-arrow .aroow-left{
+    left: 3px;
+}
+.slider-arrow .aroow-right{
+    right: 3px;
+}
+.slider-item:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.2);
+}
+.about-area-content {
+    margin-top: 85%;
+}
+.about-area-content {
+    padding-left: 5px;
+    margin-top: 80%;
+}
+.col-md-5.col-five {
+    margin: 0;
+    padding: 0;
+}
+.content-btn {
+    margin-top: 45px;
+    margin-bottom: -89px;
+}
+.work-nav ul {
+     display:block;
+    text-align: center;
+}
+.work-nav ul li {
+    font-size: 13px;
+}
+ul.fast {
+    display: flex;
+}
+ul.second {
+    display: flex;
+}
+ul.our-nav-item li a {
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.tab-content> h3 {
+    font-size: 23px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.our-content-items {
+    padding-top: 15px;
+    padding-bottom: 70px;
+}
+.tab-content p {
+    font-size: 12px;
+    text-align: justify;
+}
+.benar-content-area h2 {
+    font-size: 14px;
+}
+.benar-content-area {
+    padding-top: 85px;
+    padding-bottom: 33px;
+}
+.footer-btn a:last-child {
+    padding: 11px 18px;
+    font-size: 14px;
+    margin-left: 0;
+}
+.to-top {
+    display: none;
+}
+.team-content> h2 {
+    font-size: 32px;
+}
+.team-content> h6 {
+    font-size: 20px;
+}
+.team-content p {
+    margin-bottom: 53px;
+    font-size: 16px;
+}
+.team-sosial ul li {
+    padding: 18px 8px;
+}
+.team-sosial ul li a {
+    font-size: 25px;
+}
+}
+
+
+@media (max-width:375px){
+	
+.work-area .big-title {
+    margin-top: -84px;
+    margin-bottom: 58px;
+}
+.tab-content> h3 {
+    font-size: 21px;
+}
+	
+}
+@media (max-width:320px){
+	
+.content-btn {
+    margin-bottom: -117px;
+}
+.tab-content> h3 {
+    font-size: 17px;
+}
+ul.our-nav-item li a {
+    font-size: 9px;
+}	
+.benar-content-area h2 {
+    font-size: 12px;
+}
+.footer-btn a:last-child {
+    padding: 13px 12px;
+    font-size: 12px;
+    margin-left: 0;
+}
+.blog-items p {
+    font-size: 12px;
+}	
+}
+@media (max-width:310px){
+	
+.slider-content h5 {
+    font-size: 12px;
+}	
+.slider-content h1 {
+    font-size: 15px;
+}	
+.slider-content >p {
+    font-size:11px;
+    width: 90%;
+    margin: auto;
+    line-height: 19px;
+}
+.slide-btn a {
+    font-size: 12px;
+}
+.btn-left, .btn-right {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.slider-arrow .aroow-left, 
+.slider-arrow .aroow-right{
+    font-size: 25px;
+}
+.work-nav ul li {
+    font-size: 9px;
+}
+.fixed{
+	display:none;
+}
+}
+@media (max-width:263px){
+	
+	p{
+		font-size:14px;
+		text-align:justify;
+	}	
+.slider-content {
+    padding-top: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.slider-content h5 {
+    font-size: 11px;
+}
+.slider-content >p {
+    font-size: 11px;
+    width: 90%;
+    margin: auto;
+    line-height: 19px;
+    text-align: center;
+}
+.big-title p {
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+    text-align: left;
+}
+.work-area .big-title p,
+.team-area .big-title p,
+.Our-blog-area .big-title p {
+    text-align: center;
+}
+.top-left ul li {
+    font-size: 12px;
+    width: 100%;
+    margin: auto;
+}	
+.navbar-light .navbar-brand {
+    margin: 0;
+}	
+.about-area-content {
+    padding-left: 0px;
+    margin-top: 115%;
+}	
+.big-title h2{
+	font-size:25px;
+}
+.about-logo-area img {
+    top: 25px;
+    left: 25px;
+}
+.footer-btn a:last-child {
+    padding: 11px 9px;
+    font-size: 11px;
+}
+.benar-content-area h2 {
+    font-size: 9px;
+}
+.footer-bottom p {
+    font-size: 8px;
+    text-align: center;
+}
+.footer-bottom {
+    padding: 15px;
+}
+.sosial {
+    margin-top: 20px;
+}
+.sosial ul li a {
+    font-size: 25px;
+}
+.team-content p {
+    text-align: center;
+}
+.widget-title >h2 {
+    font-size: 22px;
+}
+}
+@media (max-width:240px){
+.slider-content h5 {
+    font-size: 10px;
+}	
+.navbar-brand img{
+	width:70%;
+}
+.navbar-toggler {
+    padding:5px;
+  
+}
+.content-btn a {
+    padding: 10px 17px;
+   
+}
+.content-btn {
+    margin-bottom: -150px;
+}
+.We-Do {
+    padding-bottom: 30px;
+    padding-top: 34px;
+}
+.work-area .big-title {
+    margin-top: -84px;
+    margin-bottom: 33px;
+}
+.big-title h2 {
+    font-size: 20px;
+    padding-top: 6px;
+}
+.tab-content> h3 {
+    font-size: 13px;
+}
+.benar-content-area {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+.footer-btn a:last-child {
+    padding: 9px 10px;
+    font-size: 10px;
+}
+.team-content> h2 {
+    font-size: 24px;
+}
+.team-content> h6 {
+    font-size: 17px;
+}
+.team-content p {
+    text-align: center;
+    font-size: 14px;
+}
+.team-sosial ul li {
+    padding: 12px 6px;
+}
+
+.team-sosial ul li a {
+    font-size: 20px;
+}
+.Our-blog-area .big-title {
+    margin-top: 45px;
+    margin-bottom: 57px;
+}
+.date-mant {
+    padding: 1px 7px;
+    left: 11px;
+    bottom: 16px;
+    box-shadow: 8px 6px #6f9c3b;
+}
+
+.blog-items img {
+    height: 150px;
+}
+.brand-items {
+    padding-top: 38px;
+    padding-bottom: 4px;
+}
+.widget-logo img {
+    width: 60%;
+}
+.widget-area .sosial ul li a {
+    font-size: 20px;
+}
+.widget-title >h2 {
+    font-size: 20px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
